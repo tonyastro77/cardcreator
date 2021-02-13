@@ -1,0 +1,56 @@
+Ninetales
+Fire
+80
+Stage 1
+038
+Fox Pokémon
+1.1
+19.9
+Vulpix
+Water
+X2
+None
+   
+1
+Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.
+Illus. Bluekomadori
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+12
+102
+Rare
+Base Set 2
+2
+False
+Lure
+
+If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon.
+12
+Colorless
+Colorless
+None
+None
+Fire Blast
+80
+Discard 1 Fire Energy card attached to Ninetales in order to use this attack.
+10
+Fire
+Fire
+Fire
+Fire
+
+
+
+11
+None
+None
+None
+None
+10
+50
+45
+5
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Ninetales.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Vulpix_small.png

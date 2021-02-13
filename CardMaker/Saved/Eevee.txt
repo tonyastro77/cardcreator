@@ -1,0 +1,56 @@
+Eevee
+Colorless
+50
+Basic
+133
+Evolution Pokémon
+0.3
+6.5
+
+Fighting
+X2
+None
+   
+1
+A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.
+Illus. sui
+©2014 Pokémon
+80
+111
+Common
+Furious Fists
+2
+True
+Energy Evolution
+
+When you attach a basic Energy card from your hand to this Pokémon, you may search your deck for a card that evolves from this Pokémon that is the same type as that Energy card and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward.
+10
+Colorless
+None
+None
+None
+Gnaw
+10
+
+10
+Colorless
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+65
+60
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Eevee.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Eevee_small.png

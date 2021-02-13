@@ -1,0 +1,56 @@
+Porygon
+Colorless
+40
+Basic
+137
+Virtual Pokémon
+0.8
+36.5
+ 
+Fighting
+X2
+Psychic
+-30
+1
+A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace.
+Illus. Ken Sugimori
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+98
+132
+Common
+Gym Challenge
+2
+False
+Sharp Point
+10
+ 
+12
+Colorless
+None
+None
+None
+Barrier Attack
+20
+All damage done by attacks to Sabrina's Porygon during your opponent's next turn is reduced by 10 (after applying Weakness and Resistance).
+11
+Colorless
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+35
+25
+15
+25
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Porygon.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Gastly_small.png

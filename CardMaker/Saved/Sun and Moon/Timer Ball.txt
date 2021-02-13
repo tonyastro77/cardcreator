@@ -1,0 +1,56 @@
+Timer Ball
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Flip 2 coins. For each heads, search your deck for an Evolution Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
+Illus. Toyste Beach
+©2017 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+139
+149
+Uncommon
+Sun and Moon
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Item
+D:\C#.Net\CardMaker\CardMaker\Saved\Sun and Moon\Img\Timer Ball.png
+openFileDialog1

@@ -1,0 +1,56 @@
+Pidgeotto
+Colorless
+60
+Stage 1
+017
+Bird Pokémon
+1.1
+30
+Pidgey
+Lightning
+X2
+Fighting
+-30
+1
+Very protective of its sprawling territory, this Pokémon will fiercely peck at any intruder.
+Illus. Suwama Chiaki
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+22
+102
+Rare
+Base Set 2
+2
+False
+Whirlwind
+20
+Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any. (Do the damage before switching the Pokémon.)
+11
+Colorless
+Colorless
+None
+None
+Mirror Move
+ 
+If Pidgeotto was attacked last turn, do the final result of that attack on Pidgeotto to the Defending Pokémon.
+10
+Colorless
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+5
+45
+30
+25
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Pidgeotto.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Pidgey_Small.png

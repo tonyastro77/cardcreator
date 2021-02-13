@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A9161E2F-9C57-481D-B88F-35EACF2B6224}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CardMaker</RootNamespace>
+    <AssemblyName>CardMaker</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HtmlAgilityPack, Version=1.11.29.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.11.29\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Build.Framework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Items.cs" />
+    <Compile Include="ListItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ListItem.Designer.cs">
+      <DependentUpon>ListItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListItem.resx">
+      <DependentUpon>ListItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Saved\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Img\A.png" />
+    <Content Include="Img\Ability.png" />
+    <Content Include="Img\Ancient Origins.png" />
+    <Content Include="Img\Base Set 2.png" />
+    <Content Include="Img\BREAKpoint.png" />
+    <Content Include="Img\BREAKthrough.png" />
+    <Content Include="Img\Burning Shadows.png" />
+    <Content Include="Img\Celestial Storm.png" />
+    <Content Include="Img\colorless.jpg" />
+    <Content Include="Img\colorless.png" />
+    <Content Include="Img\Common.png" />
+    <Content Include="Img\Cosmic Eclipse.png" />
+    <Content Include="Img\Crimson Invasion.png" />
+    <Content Include="Img\dark.jpg" />
+    <Content Include="Img\dark.png" />
+    <Content Include="Img\Darkness Ablaze.png" />
+    <Content Include="Img\Double Crisis.png" />
+    <Content Include="Img\Dragon Majesty.png" />
+    <Content Include="Img\dragon.jpg" />
+    <Content Include="Img\dragon.png" />
+    <Content Include="Img\Evolutions.png" />
+    <Content Include="Img\fairy.jpg" />
+    <Content Include="Img\Fairy.png" />
+    <Content Include="Img\Fates Collide.png" />
+    <Content Include="Img\fighting.jpg" />
+    <Content Include="Img\fighting.png" />
+    <Content Include="Img\fire.jpg" />
+    <Content Include="Img\fire.png" />
+    <Content Include="Img\Flashfire.png" />
+    <Content Include="Img\Forbidden Light.png" />
+    <Content Include="Img\Fossil.png" />
+    <Content Include="Img\Furious Fists.png" />
+    <Content Include="Img\Generations.png" />
+    <Content Include="Img\grass.jpg" />
+    <Content Include="Img\grass.png" />
+    <Content Include="Img\Guardians Rising.png" />
+    <Content Include="Img\Gym Challenge.png" />
+    <Content Include="Img\Gym Heroes.png" />
+    <Content Include="Img\Hidden Fates.png" />
+    <Content Include="Img\Jungle.png" />
+    <Content Include="Img\Kalos Starter Set.png" />
+    <Content Include="Img\lightning.jpg" />
+    <Content Include="Img\lightning.png" />
+    <Content Include="Img\Lost Thunder.png" />
+    <Content Include="Img\Phantom Forces.png" />
+    <Content Include="Img\Primal Clash.png" />
+    <Content Include="Img\psychic.jpg" />
+    <Content Include="Img\psychic.png" />
+    <Content Include="Img\Rare.png" />
+    <Content Include="Img\Rebel Clash.png" />
+    <Content Include="Img\Roaring Skies.png" />
+    <Content Include="Img\Shining Legends.png" />
+    <Content Include="Img\Steam Siege.png" />
+    <Content Include="Img\steel.jpg" />
+    <Content Include="Img\steel.png" />
+    <Content Include="Img\Sun and Moon.png" />
+    <Content Include="Img\Sword and Shield.png" />
+    <Content Include="Img\Team Rocket.png" />
+    <Content Include="Img\Team Up.png" />
+    <Content Include="Img\Ultra Prism.png" />
+    <Content Include="Img\Ultra Rare.png" />
+    <Content Include="Img\Unbroken Bonds.png" />
+    <Content Include="Img\Uncommon.png" />
+    <Content Include="Img\Unified Minds.png" />
+    <Content Include="Img\Vivid Voltage.png" />
+    <Content Include="Img\water.jpg" />
+    <Content Include="Img\water.png" />
+    <Content Include="Img\XY.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

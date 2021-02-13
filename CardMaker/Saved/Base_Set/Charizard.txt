@@ -1,0 +1,56 @@
+Charizard
+Fire
+120
+Stage 2
+006
+Flame Pokémon
+1.7
+90.5
+Charmeleon
+Water
+X2
+Fighting
+-30
+3
+Spits fire that is hot enough to melt boulders. Known to unintentionally cause forest fires.
+Illus. Ken Sugimori
+©1998 Nintendo/ Creatures/ GAMEFREAK.
+4
+102
+Rare
+Base Set 2
+2
+True
+Energy Burn
+
+As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.
+9
+None
+None
+None
+None
+Fire Spin
+100
+Discard 2 Energy cards attached to Charizard in order to use this attack.
+11
+Fire
+Fire
+Fire
+Fire
+
+
+
+11
+None
+None
+None
+None
+10
+25
+40
+15
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Charizard.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Charmeleon_small.png

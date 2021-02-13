@@ -1,0 +1,57 @@
+Professor's Letter
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+
+Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.
+Illus. 5ban Graphics
+©2013 Pokémon
+123
+146
+Uncommon
+XY
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Item
+D:\C#.Net\CardMaker\CardMaker\Saved\XY\Img\Professor's Letter.png
+openFileDialog1

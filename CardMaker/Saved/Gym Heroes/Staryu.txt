@@ -1,0 +1,56 @@
+Staryu
+Water
+50
+Basic
+120
+Starshape Pokémon
+0.8
+34.5
+Staryu
+Lightning
+X2
+None
+   
+1
+An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.
+Illus. Ken Sugimori
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+90
+132
+Common
+Gym Heroes
+1
+False
+Swift
+20
+This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon.
+12
+Water
+Colorless
+None
+None
+ 
+ 
+ 
+10
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+30
+30
+5
+5
+0
+0
+Pokémon
+openFileDialog1
+openFileDialog1

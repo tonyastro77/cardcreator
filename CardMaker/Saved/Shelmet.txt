@@ -1,0 +1,56 @@
+Shelmet
+Grass
+60
+Basic
+616
+Snail Pokémon
+0.4
+7.7
+Eevee
+Fire
+X2
+None
+   
+3
+When it and Karrablast are together, and both receive electrical stimulation, they both evolve.
+Illus. sui
+©2014 Pokémon
+8
+111
+Common
+Furious Fists
+1
+False
+Jump On
+10+
+Flip a coin. If heads, this attack does 10 more damage.
+10
+Grass
+None
+None
+None
+Magical Leaf
+50+
+Flip a coin. If heads, this attack does 30 more damage and heal 30 damage from this Pokémon.
+10
+Grass
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+40
+0
+0
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Shelmet.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Weepinbell_small.png

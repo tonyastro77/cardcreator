@@ -1,0 +1,56 @@
+Nidoran ♂
+Grass
+40
+Basic
+032
+Poison Pin Pokémon
+0.5
+9
+
+Psychic
+X2
+None
+   
+1
+Stiffens its ears to sense danger. The larger, more powerful of its horns secretes venom.
+Illus. Anime
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+55
+102
+Common
+Base Set 2
+1
+False
+Horn Hazard
+30
+Flip a coin. If tails, this attack does nothing.
+13
+Grass
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+55
+0
+20
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Nidoran male.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Growlithe_small.jpg

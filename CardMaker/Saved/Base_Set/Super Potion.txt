@@ -1,0 +1,56 @@
+Super Potion
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Discard 1 Energy card attached to 1 of your own Pokémon in order to remove up to 4 damage counters from that Pokémon.
+Discard 1 Energy card attached to 1 of your own Pokémon in order to remove up to 4 damage counters from that Pokémon.
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+90
+102
+Uncommon
+Base Set 2
+1
+False
+False
+
+
+11
+None
+None
+None
+None
+None
+
+
+11
+None
+None
+None
+None
+None
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Item
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Super Potion.jpg
+openFileDialog1

@@ -1,0 +1,56 @@
+Erika
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Search your deck for up to 2 Basic Pokémon or up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
+I. Megumi Mizutani
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+16
+132
+Rare
+Gym Heroes
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Heroes\Img\Erika.png
+openFileDialog1

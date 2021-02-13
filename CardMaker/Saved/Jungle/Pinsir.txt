@@ -1,0 +1,56 @@
+Pinsir
+Grass
+60
+Basic
+127
+Stagbeetle Pokémon
+1.5
+55
+
+Fire
+X2
+None
+   
+1
+If it fails to crush the victim in its pincers, it will swing its victim around and toss it hard.
+Illus. DemizuPosuka
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+25
+64
+Rare
+Jungle
+2
+False
+Irongrip
+20
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+11
+Grass
+Grass
+None
+None
+Guillotine
+50
+ 
+11
+Grass
+Grass
+Colorless
+Colorless
+
+
+
+11
+None
+None
+None
+None
+40
+40
+50
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Jungle\Img\Pinsir.png
+openFileDialog1

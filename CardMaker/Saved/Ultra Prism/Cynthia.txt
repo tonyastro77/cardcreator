@@ -1,0 +1,56 @@
+Cynthia
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Shuffle your hand into your deck. Then, draw 6 cards.
+Illus. Ken Sugimori
+©2018 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+119
+156
+Uncommon
+Ultra Prism
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Ultra Prism\Img\Cynthia.png
+openFileDialog1

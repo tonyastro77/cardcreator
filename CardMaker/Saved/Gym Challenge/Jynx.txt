@@ -1,0 +1,56 @@
+Jynx
+Psychic
+60
+Basic
+124
+Human Shape Pokémon
+1.4
+40.6
+ 
+Psychic
+X2
+None
+   
+1
+Merely by meditating, the Pokémon launches a powerful psychic energy attack.
+Illus. Atsuko Nishida
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+57
+132
+Uncommon
+Gym Challenge
+2
+False
+Helping Hand
+ 
+Choose 1 of your opponent's Pokémon. Remove any number of damage counters from that Pokémon, then draw that many cards.
+12
+Psychic
+None
+None
+None
+Hug
+20
+Flip a coin. If heads, the Defending Pokémon can't retreat during your opponent's next turn.
+10
+Psychic
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+10
+25
+40
+15
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Jynx.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Gastly_small.png

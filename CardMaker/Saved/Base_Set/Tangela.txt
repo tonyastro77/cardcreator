@@ -1,0 +1,56 @@
+Tangela
+Grass
+50
+Basic
+114
+Vine Pokémon
+1
+35
+
+Fire
+X2
+None
+   
+2
+Its whole body is swathed with wide vines that are similar to seaweed. These vines shake as it walks.
+Illus. Anime
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+66
+102
+Common
+Base Set 2
+2
+False
+Bind
+20
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+12
+Grass
+Colorless
+None
+None
+Poisonpowder
+20
+The Defending Pokémon is now Poisoned.
+10
+Grass
+Grass
+Grass
+None
+
+
+
+11
+None
+None
+None
+None
+20
+35
+40
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Tangela.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Growlithe_small.jpg

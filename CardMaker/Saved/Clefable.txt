@@ -1,0 +1,56 @@
+Clefable
+Fairy
+90
+Stage 1
+036
+Fairy Pokémon
+1.3
+40
+Clefairy
+Steel
+X2
+Dark
+-20
+2
+Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.
+Illus. Atsuko Nishida
+©2014 Pokémon
+71
+111
+Common
+Furious Fists
+2
+False
+Follow Me
+
+Switch 1 of your opponent's Benched Pokémon with your opponent's Active Pokémon.
+10
+Colorless
+None
+None
+None
+Moonblast
+30
+During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance).
+10
+Fairy
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+10
+10
+15
+35
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Clefable.png
+openFileDialog1

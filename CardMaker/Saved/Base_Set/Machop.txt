@@ -1,0 +1,56 @@
+Machop
+Fighting
+50
+Basic
+066
+Superpower
+0.8
+19.5
+
+Psychic
+X2
+None
+   
+1
+Loves to build its muscles. It trains in all styles of martial arts to become even stronger.
+Illus. All0412
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+52
+102
+Common
+Base Set 2
+1
+False
+Low Kick
+20
+
+11
+Fighting
+None
+None
+None
+ 
+ 
+ 
+11
+None
+None
+None
+None
+ 
+ 
+  
+11
+None
+None
+None
+None
+55
+40
+0
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Machop.jpg
+openFileDialog1

@@ -1,0 +1,56 @@
+Pangoro
+Dark
+120
+Stage 1
+675
+Daunting Pokémon
+2.1
+136
+Pancham
+Fighting
+X2
+Psychic
+-20
+3
+Although it possesses a violent temperament, it won't put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.
+Illus. 5ban Graphics
+©2014 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+68
+111
+Rare
+Furious Fists
+2
+False
+Clobber
+30+
+You may discard an Item card from your hand. If you do, this attack does 40 more damage.
+11
+Dark
+Colorless
+None
+None
+Hammer Arm
+80
+Discard the top card of your opponent's deck.
+11
+Dark
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+25
+45
+45
+5
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Pangoro.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Pancham_small.png

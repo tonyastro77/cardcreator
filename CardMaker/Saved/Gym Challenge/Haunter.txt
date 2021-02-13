@@ -1,0 +1,56 @@
+Haunter
+Psychic
+70
+Stage 1
+093
+Gas Pokémon
+1.6
+0.1
+Gastly
+None
+   
+Fighting
+-30
+0
+Because of its ability to slip through block walls, it is said to be from another dimension.
+Illus. Ken Sugimori
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+55
+132
+Uncommon
+Gym Challenge
+2
+False
+Nightmare
+20
+The Defending Pokémon is now Asleep.
+12
+Psychic
+Psychic
+None
+None
+Shadow Attack
+ 
+Flip a coin. If heads, and if your opponent has any Benched Pokémon, choose 1 of them and this attack does 30 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)
+10
+Psychic
+Psychic
+Psychic
+None
+
+
+
+11
+None
+None
+None
+None
+15
+25
+10
+40
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Haunter.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Gastly_small.png

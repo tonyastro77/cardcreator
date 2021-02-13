@@ -1,0 +1,56 @@
+Starmie
+Water
+60
+Stage 1
+121
+Mysterious Pokémon
+1.1
+80
+Staryu
+Lightning
+X2
+None
+   
+1
+Its central core glows with the seven colors of the rainbow. Some people value this core as a gem.
+Illus. Keiji Kinebuchi
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+64
+102
+Uncommon
+Base Set 2
+2
+False
+Recover
+
+Discard 1 Water Energy card attached to Starmie in order to use this attack. Remove all damage counters from Starmie.
+12
+Water
+Water
+None
+None
+Star Freeze
+20
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+12
+Water
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+5
+40
+40
+10
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Starmie.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Staryu_small.jpg

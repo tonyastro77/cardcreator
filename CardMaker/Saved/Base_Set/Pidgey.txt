@@ -1,0 +1,56 @@
+Pidgey
+Colorless
+40
+Basic
+016
+Tiny Bird Pokémon
+0.3
+1.8
+
+Lightning
+X2
+Fighting
+-30
+1
+A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.
+Illus. Suwama Chiaki
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+57
+102
+Common
+Base Set 2
+1
+False
+Whirlwind
+10
+Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any. (Do the damage before switching the Pokémon.)
+11
+Colorless
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+45
+30
+0
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Pidgey.png
+openFileDialog1

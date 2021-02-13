@@ -1,0 +1,56 @@
+Charmander
+Fire
+50
+Basic
+004
+Lizard Pokémon
+0.7
+6.9
+
+Water
+X2
+None
+   
+1
+Obviously prefers hot places. If it gets caught in the rain, steam is said to spout from the tip of its tail.
+Illus. Mitsuhiro Arita
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+46
+102
+Common
+Base Set 2
+2
+False
+Scratch
+10
+
+11
+Colorless
+None
+None
+None
+Ember
+30
+Discard 1 Fire Energy card attached to Charmander in order to use this attack.
+11
+Fire
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+35
+35
+25
+15
+0
+0
+Pokémon
+openFileDialog1
+openFileDialog1

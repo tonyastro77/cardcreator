@@ -1,0 +1,56 @@
+Gyarados
+Water
+100
+Stage 1
+130
+Atrocious Pokémon
+6.5
+235
+Magikarp
+Grass
+X2
+Fighting
+-30
+3
+Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.
+Illus. Ken Sugimori
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+7
+102
+Rare
+Base Set 2
+2
+False
+Dragon Rage
+50
+
+11
+Water
+Water
+Water
+None
+Bubblebeam
+40
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+12
+Water
+Water
+Water
+Water
+
+
+
+11
+None
+None
+None
+None
+25
+40
+20
+10
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Gyarados.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Magikarp_small.jpg

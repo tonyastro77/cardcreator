@@ -1,0 +1,56 @@
+Sonia
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Search your deck for up to 2 Basic Pokémon or up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
+I. Yusuke Ohmura
+©2020 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+167
+192
+Uncommon
+Rebel Clash
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Rebel Clash\Img\Sonia.png
+openFileDialog1

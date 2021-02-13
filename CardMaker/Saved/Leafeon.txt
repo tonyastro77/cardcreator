@@ -1,0 +1,56 @@
+Leafeon
+Grass
+90
+Stage 1
+470
+Verdant Pokémon
+1
+25.5
+Eevee
+Fire
+X2
+None
+   
+1
+When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.
+Illus. Naoyo Kimura
+©2014 Pokémon
+7
+111
+Rare
+Furious Fists
+2
+False
+Soothing Scent
+30
+Your opponent's Active Pokémon is now Asleep.
+11
+Grass
+None
+None
+None
+Magical Leaf
+50+
+Flip a coin. If heads, this attack does 30 more damage and heal 30 damage from this Pokémon.
+10
+Grass
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+25
+25
+25
+15
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Leafeon.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Eevee_small.png

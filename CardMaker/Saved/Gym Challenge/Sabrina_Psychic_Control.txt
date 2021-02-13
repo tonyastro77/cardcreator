@@ -1,0 +1,56 @@
+Sabrina's Psychic Control
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Shuffle 6 in any combination of Pokémon and basic Energy cards from your discard pile into your deck.
+Illus. Ken Sugimori
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+121
+132
+Uncommon
+Gym Challenge
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\SabrinPsychicControl.png
+openFileDialog1

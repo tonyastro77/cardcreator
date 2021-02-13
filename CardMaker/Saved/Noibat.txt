@@ -1,0 +1,56 @@
+Noibat
+Colorless
+60
+Basic
+714
+Sound Wave Pokémon
+0.5
+8
+
+Lightning
+X2
+Fighting
+-20
+1
+They live in pitch black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.
+Illus. 5ban Graphics
+©2014 Pokémon
+87
+111
+Common
+Furious Fists
+2
+False
+Tackle
+10
+
+12
+Colorless
+None
+None
+None
+Gust
+20
+
+11
+Colorless
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+30
+5
+20
+5
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Noibat.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Slakoth_small.png

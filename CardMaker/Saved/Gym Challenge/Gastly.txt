@@ -1,0 +1,56 @@
+Gastly
+Psychic
+30
+Basic
+092
+Gas Pokémon
+1.3
+0.1
+Staryu
+None
+   
+Fighting
+-30
+0
+Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice.
+Illus. Keiji Kinebuchii
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+96
+132
+Common
+Gym Challenge
+2
+False
+Lick
+10
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+12
+Psychic
+None
+None
+None
+Mind Shock
+30
+Return Sabrina's Gastly and all Energy cards attached to it to your hand. (Discard all other cards attached to Sabrina's Gastly.)
+10
+Psychic
+Psychic
+None
+None
+
+
+
+11
+None
+None
+None
+None
+15
+25
+25
+25
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Gastly.png
+openFileDialog1

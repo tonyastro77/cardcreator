@@ -1,0 +1,56 @@
+Maintenance
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Shuffle 2 cards from your hand into your deck. (If you can't shuffle 2 cards into your deck, you can't play this card.) Then, draw a card.
+Illus. Toyste Beach
+©2014 Pokémon
+96
+111
+Uncommon
+Furious Fists
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Item
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Maintenance.png
+openFileDialog1

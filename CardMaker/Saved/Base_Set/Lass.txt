@@ -1,0 +1,56 @@
+Lass
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+You and your opponent show each other your hands, then shuffle all the Trainer cards from your hands into your decks.
+Illus. Anime
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+75
+102
+Rare
+Base Set 2
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Lass.png
+openFileDialog1

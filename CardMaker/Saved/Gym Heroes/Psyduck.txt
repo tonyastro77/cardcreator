@@ -1,0 +1,56 @@
+Psyduck
+Water
+50
+Basic
+054
+Duck Pokémon
+0.8
+19.6
+Staryu
+Grass
+X2
+None
+   
+1
+While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers
+Illus. Atsuko Nishida
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+54
+132
+Uncommon
+Gym Heroes
+2
+False
+Scratch
+ 10
+
+12
+Colorless
+None
+None
+None
+Call for Friend
+ 
+Flip a coin. If heads, you may search your deck for a Basic Pokémon with Misty in its name and put it onto your Bench. (You can't use this attack if your Bench is full.) Shuffle your deck afterward.
+10
+Water
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+25
+25
+5
+40
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Heroes\Img\Psyduck.png
+openFileDialog1

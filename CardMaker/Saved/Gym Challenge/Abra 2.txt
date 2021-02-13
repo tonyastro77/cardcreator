@@ -1,0 +1,56 @@
+Abra
+Psychic
+50
+Basic
+063
+Psi Pokémon
+0.9
+19.5
+Staryu
+Psychic
+X2
+None
+   
+1
+Using its ability to read minds, it will identify impending danger and teleport to safety.
+Illus. Ken Sugimori
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+94
+132
+Common
+Gym Challenge
+2
+False
+Psyscan
+ 
+Look at your opponent's hand.
+12
+Colorless
+None
+None
+None
+Quick Attack
+10+
+Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.
+10
+Psychic
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+25
+25
+20
+30
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Abra_2.png
+openFileDialog1

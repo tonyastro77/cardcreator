@@ -1,0 +1,56 @@
+Kakuna
+Grass
+80
+Stage 1
+014
+Cocoon Pokémon
+0.6
+10
+Weedle
+Fire
+X2
+None
+   
+2
+Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators.
+Illus. Keiji Kinebuchi
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+33
+102
+Uncommon
+Base Set 2
+2
+False
+Stiffen
+
+Flip a coin. If heads, prevent all damage done to Kakuna during your opponent's next turn. (Any other effects of attacks still happen.)
+12
+Colorless
+Colorless
+None
+None
+Poisonpowder
+20
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+12
+Grass
+Grass
+None
+None
+
+
+
+11
+None
+None
+None
+None
+10
+45
+35
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Kakuna.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Weedle_small.png

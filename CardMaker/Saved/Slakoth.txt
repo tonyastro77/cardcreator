@@ -1,0 +1,56 @@
+Slakoth
+Colorless
+60
+Basic
+287
+Slacker Pokémon
+0.8
+24
+
+Fighting
+X2
+None
+   
+3
+The way Slakoth lolls around makes anyone who watches it feel like doing the same.
+Illus. Midori Hasada
+©2014 Pokémon
+81
+111
+Common
+Furious Fists
+1
+False
+Big Yawn
+
+Both Active Pokémon are now Asleep.
+12
+Colorless
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+40
+0
+20
+20
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Slakoth.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Shelmet_small.png

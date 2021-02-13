@@ -1,0 +1,56 @@
+Starmie
+Water
+80
+Stage 1
+121
+Mysterious Pokémon
+1.1
+80
+Staryu
+Lightning
+X2
+None
+   
+2
+Its central core glows with the seven colors of the rainbow. Some people value this core as a gem.
+Illus. Ken Sugimori
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+56
+132
+Uncommon
+Gym Heroes
+2
+False
+Water Gun
+10+
+Does 10 damage plus 10 more damage for each Water Energy attached to Misty's Starmie but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.
+12
+Water
+None
+None
+None
+Bubblebeam
+30
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+10
+Water
+Water
+Water
+None
+
+
+
+11
+None
+None
+None
+None
+0
+45
+50
+10
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Heroes\Img\Starmie.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Heroes\Img\staryu_small.jpg

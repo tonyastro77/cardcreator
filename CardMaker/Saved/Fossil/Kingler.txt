@@ -1,0 +1,56 @@
+Kingler
+Water
+60
+Stage 1
+099
+Pincer Pokémon
+1.3
+60
+Krabby
+Lightning
+X2
+None
+   
+3
+The large pincer has 10,000 horsepower of crushing power. However, it huge size makes it unwieldy to use.
+Illus. match
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+38
+62
+Uncommon
+Fossil
+2
+False
+Flail
+10×
+Does 10 damage times the number of damage counters on Kingler.
+11
+Water
+None
+None
+None
+Crabhammer
+40
+ 
+11
+Water
+Water
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+0
+45
+50
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Fossil\Img\Kingler.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Fossil\Img\krabby_small.png

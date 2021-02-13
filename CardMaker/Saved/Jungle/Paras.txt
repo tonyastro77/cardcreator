@@ -1,0 +1,56 @@
+Paras
+Grass
+40
+Basic
+046
+Mushroom Pokémon
+0.3
+5.4
+
+Fire
+X2
+None
+   
+1
+Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.
+Illus. Midori Harada
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+59
+64
+Common
+Jungle
+2
+False
+Scratch
+20
+ 
+11
+Colorless
+Colorless
+None
+None
+Spore
+ 
+ The Defending Pokémon is now Asleep.
+10
+Grass
+Grass
+None
+None
+
+
+
+11
+None
+None
+None
+None
+35
+40
+30
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Jungle\Img\Paras.png
+openFileDialog1

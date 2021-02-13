@@ -1,0 +1,56 @@
+Articuno
+Water
+70
+Basic
+144
+Freeze Pokémon
+1.7
+55.4
+
+None
+   
+Fighting
+-30
+2
+A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.
+Illus. Ryo Ueda
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+2
+62
+Rare
+Fossil
+2
+False
+Freeze Dry
+30
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+11
+Water
+Water
+Water
+None
+Blizzard
+50
+Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+10
+Water
+Water
+Water
+Water
+
+
+
+11
+None
+None
+None
+None
+0
+45
+5
+55
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Fossil\Img\Articuno.png
+openFileDialog1

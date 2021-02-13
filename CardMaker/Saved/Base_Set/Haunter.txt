@@ -1,0 +1,56 @@
+Haunter
+Psychic
+60
+Stage 1
+093
+Gas Pokémon
+1.6
+0.1
+Gastly
+None
+   
+Fighting
+-30
+1
+Because of its ability to slip through block walls, it is said to be from another dimension.
+I. Takashi Yamaguchi
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+29
+102
+Uncommon
+Base Set 2
+2
+False
+Hypnosis
+ 
+The Defending Pokémon is now Asleep.
+11
+Psychic
+None
+None
+None
+Dream Eater
+50
+You can't use this attack unless the Defending Pokémon is Asleep.
+10
+Psychic
+Psychic
+None
+None
+
+
+
+11
+None
+None
+None
+None
+25
+40
+25
+5
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Haunter.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Gastly_Small.png

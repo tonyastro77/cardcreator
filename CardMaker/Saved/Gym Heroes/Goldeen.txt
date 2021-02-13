@@ -1,0 +1,56 @@
+Goldeen
+Water
+40
+Basic
+118
+Goldfish Pokémon
+0.6
+15
+Staryu
+Lightning
+X2
+None
+   
+1
+Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer.
+Illus. Atsuko Nishida
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+85
+132
+Common
+Gym Heroes
+2
+False
+Fury Attack
+10x
+Flip 2 coins. This attack does 10 damage times the number of heads.
+12
+Colorless
+None
+None
+None
+Supersonic
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+12
+Water
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+10
+5
+25
+10
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Heroes\Img\Goldeen.jpg
+openFileDialog1

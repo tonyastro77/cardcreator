@@ -1,0 +1,56 @@
+Pancham
+Fighting
+60
+Basic
+674
+Playful Pokémon
+0.6
+8
+
+Psychic
+X2
+None
+   
+1
+It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark
+Illus. 5ban Graphics
+©2014 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+59
+111
+Uncommon
+Furious Fists
+2
+False
+Bad-Influence Evolution
+ 
+If you have any Darkness Pokémon on your Bench, search your deck for a card that evolves from this Pokémon and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward.
+10
+Colorless
+None
+None
+None
+Confront
+30
+ 
+11
+Fighting
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+20
+65
+65
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Pancham.png
+openFileDialog1

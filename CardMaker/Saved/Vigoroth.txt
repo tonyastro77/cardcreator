@@ -1,0 +1,56 @@
+Vigoroth
+Colorless
+90
+Stage 1
+288
+Wild Monkey Pokémon
+1.4
+46.5
+Slakoth
+Fighting
+X2
+None
+   
+2
+Its heartbeat is fast and its blood so agitated that it can't sit still for one second.
+Illus. Suwama Chiaki
+©2014 Pokémon
+82
+111
+Uncommon
+Furious Fists
+2
+False
+Scratch
+20
+
+12
+Colorless
+None
+None
+None
+Reckless Charge
+70
+Flip a coin. If tails, this Pokémon does 20 damage to itself.
+10
+Colorless
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+35
+40
+25
+10
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Vigoroth.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Slakoth_small.png

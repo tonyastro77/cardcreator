@@ -1,0 +1,56 @@
+Battle Reporter
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Draw cards until you have the same number of cards in your hand as your opponent.
+Illus. Shin Nagasawa
+
+88
+111
+Uncommon
+Furious Fists
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\BattleReporter.png
+openFileDialog1

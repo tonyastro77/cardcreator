@@ -1,0 +1,56 @@
+Sylveon
+Fairy
+90
+Stage 1
+700
+Intertwining Pokémon
+1
+23.5
+Eevee
+Steel
+X2
+Dark
+-20
+1
+It sends a soothing aura from its ribbonlike feelers to calm fights.
+Illus. 5ban Graphics
+©2014 Pokémon
+72
+111
+Rare
+Furious Fists
+2
+False
+Curly Ribbon
+30
+Move 1 Energy attached to your opponent's Active Pokémon to 1 of his or her Benched Pokémon.
+11
+Fairy
+None
+None
+None
+Echoed Voice
+50
+During your next turn, this Pokémon's Echoed Voice attack does 50 more damage (before applying Weakness and Resistance).
+9
+Fairy
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+30
+25
+40
+15
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Sylveon.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Eevee_small.png

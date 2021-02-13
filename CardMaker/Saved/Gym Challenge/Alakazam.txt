@@ -1,0 +1,56 @@
+Alakazam
+Psychic
+80
+Stage 2
+065
+Psi Pokémon
+1.5
+48
+Kadabra
+Psychic
+X2
+None
+   
+3
+Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5000.
+Illus. Ken Sugimori
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+16
+132
+Rare
+Gym Challenge
+2
+True
+Psylink
+ 
+Sabrina's Alakazam always has a copy of every attack your Psychic Pokémon in play have (including their Energy costs and anything else required in order to use those attacks, such as discarding Energy cards). This power can't be used if Sabrina's Alakazam is Asleep, Confused, or Paralyzed.
+10
+None
+None
+None
+None
+Mega Burn
+60
+You can't use this attack during your next turn.
+10
+Psychic
+Colorless
+Colorless
+Colorless
+
+
+
+11
+None
+None
+None
+None
+5
+55
+60
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Alakazam.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Kadabra_small.png

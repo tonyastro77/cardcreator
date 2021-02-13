@@ -1,0 +1,56 @@
+Jynx
+Psychic
+70
+Basic
+124
+Human Shape Pokémon
+1.4
+40.6
+
+Psychic
+X2
+None
+   
+2
+Merely by meditating, the Pokémon launches a powerful psychic energy attack.
+Illus. HYOGONOSUKE
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+31
+102
+Uncommon
+Base Set 2
+2
+False
+Doubleslap
+10×
+ Flip 2 coins. This attack does 10 damage times the number of heads.
+11
+Psychic
+None
+None
+None
+Meditate
+20+
+Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon.
+10
+Psychic
+Psychic
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+15
+45
+30
+5
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Jynx.png
+openFileDialog1

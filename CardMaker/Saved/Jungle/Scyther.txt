@@ -1,0 +1,56 @@
+Scyther
+Grass
+70
+Basic
+123
+Mantis Pokémon
+1.5
+56
+
+Fire
+X2
+Fighting
+-30
+0
+With ninja-like agility and speed, it can create the illusion that there is more than one of it.
+I. Masakazu Fukuda
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+10
+64
+Rare
+Jungle
+2
+False
+Swords Dance
+ 
+During your next turn, Scyther's Slash attack's base damage is 60 instead of 30.
+11
+Grass
+None
+None
+None
+Slash
+30
+ 
+11
+Colorless
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+0
+45
+45
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Jungle\Img\Scyther.png
+openFileDialog1

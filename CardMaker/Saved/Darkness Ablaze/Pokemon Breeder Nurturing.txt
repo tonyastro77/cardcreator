@@ -1,0 +1,56 @@
+Pokémon Breeder Nurturing
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Choose up to 2 of your Pokémon in play. For each of those Pokémon, search your deck for a card that evolves from that Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck. You can't use this card during your first turn or on a Pokémon that was put into play this turn.
+Illus. kirisAki
+©2020 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+166
+189
+Uncommon
+Darkness Ablaze
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Darkness Ablaze\Img\Pokemon Breeder Nurturing.png
+openFileDialog1

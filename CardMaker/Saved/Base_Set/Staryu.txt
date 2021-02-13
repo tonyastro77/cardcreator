@@ -1,0 +1,56 @@
+Staryu
+Water
+40
+Basic
+120
+Starshape Pokémon
+0.8
+34.5
+
+Lightning
+X2
+None
+   
+1
+An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.
+Illus. Keiji Kinebuchi
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+65
+102
+Common
+Base Set 2
+1
+False
+Slap
+20
+
+11
+Water
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+65
+15
+20
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Staryu.jpg
+openFileDialog1

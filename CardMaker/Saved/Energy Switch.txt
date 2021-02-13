@@ -1,0 +1,56 @@
+Energy Switch
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Move a basic Energy from 1 of your Pokémon to another of your Pokémon.
+Illus. 5ban Graphics
+©2014 Pokémon
+89
+111
+Uncommon
+Furious Fists
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Item
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Energy Switch.png
+openFileDialog1

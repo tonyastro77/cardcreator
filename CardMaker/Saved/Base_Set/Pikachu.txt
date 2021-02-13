@@ -1,0 +1,56 @@
+Pikachu
+Lightning
+40
+Basic
+025
+Mouse Pokémon
+0.4
+6
+
+Fighting
+X2
+None
+   
+1
+When several of these Pokémon gather, their electricity can cause lightning storms.
+Illus. Mitsuhiro Arita
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+58
+102
+Common
+Base Set 2
+2
+False
+Gnaw
+10
+ 
+11
+Colorless
+None
+None
+None
+Thunder Jolt
+30
+Flip a coin. If tails, Pikachu does 10 damage to itself.
+10
+Lightning
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+45
+40
+25
+5
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Pikachu.png
+openFileDialog1

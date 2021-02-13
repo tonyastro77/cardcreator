@@ -1,0 +1,56 @@
+Bug Catcher
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Draw 2 cards. Flip a coin. If heads, draw 2 more cards.
+Illus. kirisAki
+©2019 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+189
+236
+Uncommon
+Unified Minds
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Unified Minds\Img\Bug Catcher.png
+openFileDialog1

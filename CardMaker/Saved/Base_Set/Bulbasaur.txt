@@ -1,0 +1,56 @@
+Bulbasaur
+Grass
+40
+Basic
+001
+Seed Pokémon
+0.7
+6.9
+
+Fire
+X2
+None
+   
+1
+A strange seed was planted on its back at birth. Thus, a plant sprouted and now grows with this Pokémon.
+Illus. Mitsuhiro Arita
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+44
+102
+Common
+Base Set 2
+1
+False
+Leech Seed
+20
+Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur.
+11
+Grass
+Grass
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+45
+15
+20
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Bulbasaur.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Staryu_small.jpg

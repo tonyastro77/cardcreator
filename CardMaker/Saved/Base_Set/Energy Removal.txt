@@ -1,0 +1,56 @@
+Energy Removal
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it.
+Illus. Keiji Kinebuchi
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+92
+102
+Common
+Base Set 2
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Item
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Energy Removal.png
+openFileDialog1

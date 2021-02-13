@@ -1,0 +1,56 @@
+Bellsprout
+Grass
+50
+Basic
+069
+Flower Pokémon
+0.7
+4
+Eevee
+Fire
+X2
+None
+   
+1
+Even though its body is extremely skinny, it is blindingly fast when catching its prey.
+Illus. Kanako Eo
+©2014 Pokémon
+1
+111
+Common
+Furious Fists
+2
+False
+Vine Whip
+10
+
+10
+Grass
+None
+None
+None
+Knock Off
+
+Discard a random card from your opponent's hand.
+10
+Grass
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+35
+40
+20
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Bellsprout.jpg
+openFileDialog1

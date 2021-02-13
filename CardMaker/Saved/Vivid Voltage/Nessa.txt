@@ -1,0 +1,56 @@
+Nessa
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Put up to 4 in any combination of Water Pokémon and Water Energy cards from your discard pile into your hand.
+Illus. take
+©2020 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+157
+185
+Uncommon
+Vivid Voltage
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Vivid Voltage\Img\Nessa.png
+openFileDialog1

@@ -1,0 +1,56 @@
+Tentacruel
+Water
+70
+Stage 1
+073
+Jellyfish Pokémon
+1.6
+55
+Tentacool
+Lightning
+X2
+None
+   
+0
+The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.
+Illus. Ken Sugimori
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+10
+132
+Rare
+Gym Heroes
+2
+True
+Flee
+ 
+If an attack does damage to Tentacruel while it's your Active Pokémon, you may switch it with 1 of your Benched Pokémon, which prevents all other effects of that attack on Misty's Tentacruel. This power can't be used if  Tentacruel is already Asleep, Confused, or Paralyzed.
+9
+None
+None
+None
+None
+Jellyfish Poison
+30
+Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, the Defending Pokémon is now Confused.
+10
+Water
+Water
+Colorless
+Colorless
+
+
+
+11
+None
+None
+None
+None
+0
+40
+40
+20
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Heroes\Img\Tentacruel.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Heroes\Img\tentacool_small.jpg

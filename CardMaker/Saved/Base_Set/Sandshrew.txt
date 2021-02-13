@@ -1,0 +1,56 @@
+Sandshrew
+Fighting
+40
+Basic
+027
+Mouse Pokémon
+0.6
+12
+
+Grass
+X2
+Lightning
+-30
+1
+Burrows deep underground in arid locations far from water. It only emerges to hunt for food.
+
+©2020 Nintendo/ Creatures/ GAMEFREAK.
+62
+102
+Common
+Base Set 2
+1
+False
+Sand-attack
+
+If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+12
+Fighting
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+35
+35
+0
+0
+0
+0
+Pokémon
+C:\Users\tonyb\OneDrive\Työpöytä\Sandshrew.jpg
+openFileDialog1

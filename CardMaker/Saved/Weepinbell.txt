@@ -1,0 +1,56 @@
+Weepinbell
+Grass
+80
+Stage 1
+070
+Flycatcher Pokémon
+1
+6.4
+Bellsprout
+Fire
+X2
+None
+   
+2
+The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.
+Illus. Mizue
+©2014 Pokémon
+2
+111
+Uncommon
+Furious Fists
+2
+False
+Vine Whip
+20
+ 
+11
+Grass
+Colorless
+None
+None
+Spit Poison
+40
+Your opponent's Active Pokémon is now Poisoned.
+10
+Grass
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+35
+35
+20
+20
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Weepinbell.png
+openFileDialog1

@@ -1,0 +1,56 @@
+Charmeleon
+Fire
+80
+Stage 1
+005
+Flame Pokémon
+1.1
+19
+Charmander
+Water
+X2
+None
+   
+1
+When it swings its burning tail, it raises the temperature to unbearably high levels.
+Illus. Mitsuhiro Arita
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+24
+102
+Uncommon
+Base Set 2
+2
+False
+Slash
+30
+
+11
+Colorless
+Colorless
+Colorless
+None
+Flamethrower
+50
+Discard 1 Fire Energy card attached to Charmeleon in order to use this attack.
+11
+Fire
+Fire
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+45
+40
+25
+15
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Charmeleon.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Charmander_small.png

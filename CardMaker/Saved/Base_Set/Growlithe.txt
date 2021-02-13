@@ -1,0 +1,56 @@
+Growlithe
+Fire
+60
+Basic
+058
+Puppy Pokémon
+0.7
+19
+
+Water
+X2
+None
+   
+1
+Very protective of its territory. It will bark and bite to repel intruders from its space.
+Illus. Anime
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+28
+102
+Uncommon
+Base Set 2
+1
+False
+Flare
+20
+
+12
+Fire
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+65
+15
+15
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Growlithe.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Vulpix_small.png

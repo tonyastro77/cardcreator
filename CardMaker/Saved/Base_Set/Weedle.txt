@@ -1,0 +1,56 @@
+Weedle
+Grass
+40
+Basic
+013
+Hairy Bug Pokémon
+0.7
+9.9
+
+Fire
+X2
+None
+   
+1
+Often found in forests, eating leaves. It has a sharp, venomous stinger on its head.
+Illus. Mitsuhiro Arita
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+69
+102
+Common
+Base Set 2
+1
+False
+Poison Sting
+10
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+11
+Grass
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+45
+15
+20
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Weedle.jpg
+openFileDialog1

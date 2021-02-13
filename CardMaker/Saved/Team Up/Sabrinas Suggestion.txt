@@ -1,0 +1,57 @@
+Sabrina's Suggestion
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+
+Your opponent reveals their hand. You may choose a Supporter card you find there and use the effect of that card as the effect of this card.
+Illus. Hitoshi Ariga
+©2019 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+154
+181
+Uncommon
+Team Up
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Team Up\Img\SabrinasSuggestion.png
+openFileDialog1

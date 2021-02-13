@@ -1,0 +1,56 @@
+Poliwhirl
+Water
+60
+Stage 1
+061
+Tadpole Pokémon
+1
+20
+Poliwag
+Grass
+X2
+None
+   
+1
+Capable of living in or out of water. When out of water, it sweats to keep its body slimy.
+Illus. Akira Komayama
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+38
+102
+Uncommon
+Base Set 2
+2
+False
+Amnesia
+ 
+Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.
+11
+Water
+Water
+None
+None
+Doubleslap
+30×
+Flip 2 coins. This attack does 30 damage times the number of heads.
+10
+Water
+Water
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+10
+35
+40
+5
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Poliwhirl.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Poliwag_small.png

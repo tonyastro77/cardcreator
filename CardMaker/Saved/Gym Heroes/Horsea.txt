@@ -1,0 +1,56 @@
+Horsea
+Water
+40
+Basic
+116
+Dragon Pokémon
+0.4
+8
+Staryu
+Lightning
+X2
+None
+   
+0
+Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes.
+Illus. Ken Sugimori
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+86
+132
+Common
+Gym Heroes
+2
+False
+Tackle
+10
+ 
+12
+Water
+None
+None
+None
+Smokescreen
+20
+If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+10
+Water
+Water
+None
+None
+
+
+
+11
+None
+None
+None
+None
+30
+5
+15
+30
+0
+0
+Pokémon
+openFileDialog1
+openFileDialog1

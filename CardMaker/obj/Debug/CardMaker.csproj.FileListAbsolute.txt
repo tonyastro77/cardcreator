@@ -1,0 +1,15 @@
+D:\C#.Net\CardMaker\CardMaker\bin\Debug\CardMaker.exe.config
+D:\C#.Net\CardMaker\CardMaker\bin\Debug\CardMaker.exe
+D:\C#.Net\CardMaker\CardMaker\bin\Debug\CardMaker.pdb
+D:\C#.Net\CardMaker\CardMaker\obj\Debug\CardMaker.csprojAssemblyReference.cache
+D:\C#.Net\CardMaker\CardMaker\obj\Debug\CardMaker.Form1.resources
+D:\C#.Net\CardMaker\CardMaker\obj\Debug\CardMaker.ListItem.resources
+D:\C#.Net\CardMaker\CardMaker\obj\Debug\CardMaker.Properties.Resources.resources
+D:\C#.Net\CardMaker\CardMaker\obj\Debug\CardMaker.csproj.GenerateResource.cache
+D:\C#.Net\CardMaker\CardMaker\obj\Debug\CardMaker.csproj.CoreCompileInputs.cache
+D:\C#.Net\CardMaker\CardMaker\obj\Debug\CardMaker.exe
+D:\C#.Net\CardMaker\CardMaker\obj\Debug\CardMaker.pdb
+D:\C#.Net\CardMaker\CardMaker\bin\Debug\HtmlAgilityPack.dll
+D:\C#.Net\CardMaker\CardMaker\bin\Debug\HtmlAgilityPack.pdb
+D:\C#.Net\CardMaker\CardMaker\bin\Debug\HtmlAgilityPack.xml
+D:\C#.Net\CardMaker\CardMaker\obj\Debug\CardMaker.csproj.CopyComplete

@@ -1,0 +1,56 @@
+Victreebel
+Grass
+130
+Stage 2
+071
+Flycatcher Pokémon
+1.7
+15.5
+Weepinbell
+Fire
+X2
+None
+   
+2
+Said to live in huge colonies deep in jungles, although no one has ever returned from there.
+Illus. S. Sakuma
+©2014 Pokémon
+3
+111
+Rare
+Furious Fists
+2
+True
+Wafting Scent
+
+Once during your turn (before your attack), you may discard a Grass Energy attached to this Pokémon. If you do, your opponent's Active Pokémon is now Confused and Poisoned.
+11
+Grass
+Colorless
+None
+None
+Spiral Drain
+60
+Heal 30 damage from this Pokémon.
+10
+Grass
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+5
+45
+55
+0
+0
+0
+Pokémon
+openFileDialog1
+openFileDialog1

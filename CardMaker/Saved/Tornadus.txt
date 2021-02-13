@@ -1,0 +1,56 @@
+Tornadus
+Colorless
+110
+Basic
+641
+Cyclone Pokémon
+1.5
+63
+
+Lightning
+X2
+Fighting
+-20
+1
+The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.
+Illus. kawayoo
+©2014 Pokémon
+86
+111
+Rare
+Furious Fists
+2
+False
+Push Down
+20
+You may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon.
+11
+Colorless
+Colorless
+None
+None
+Twister Throw
+60+
+If you have the same number of cards in your hand as your opponent, this attack does 60 more damage.
+10
+Colorless
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+15
+5
+25
+20
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Tornadus.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Slakoth_small.png

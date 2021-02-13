@@ -1,0 +1,57 @@
+Misty
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+
+Discard 2 of the other cards in your hand in order to play this card. If this turn's attack does damage to the Defending Pokémon (after applying Weakness and Resistance), and if the attacking Pokémon has Misty in its name, the attack does 20 more damage to the Defending Pokémon.
+Illus. Ken Sugimori
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+18
+132
+Rare
+Gym Heroes
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Heroes\Img\Misty.jpg
+openFileDialog1

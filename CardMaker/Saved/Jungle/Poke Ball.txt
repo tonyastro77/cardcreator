@@ -1,0 +1,56 @@
+Poké Ball
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward.
+Illus. Keiji Kinebuchi
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+64
+64
+Common
+Jungle
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Item
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Heroes\Img\Pokeball.jpg
+openFileDialog1

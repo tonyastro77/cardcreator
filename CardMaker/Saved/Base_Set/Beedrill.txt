@@ -1,0 +1,56 @@
+Beedrill
+Grass
+80
+Stage 2
+015
+Poison Bee Pokémon
+1
+29.5
+Kakuna
+Fire
+X2
+Fighting
+-30
+0
+Flies at high speed and attacks using the large, venomous stingers on its forelegs and tail.
+Illus. Ken Sugimori
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+17
+102
+Rare
+Base Set 2
+2
+False
+Twineedle
+30x
+Flip 2 coins. This attack does 30 damage times the number of heads.
+13
+Colorless
+Colorless
+Colorless
+None
+Poison Sting
+40
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+12
+Grass
+Grass
+Grass
+None
+
+
+
+11
+None
+None
+None
+None
+15
+45
+35
+10
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Beedrill.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Kakuna_small.png

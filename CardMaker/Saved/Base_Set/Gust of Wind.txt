@@ -1,0 +1,56 @@
+Gust of Wind
+Water
+30
+Basic
+129
+Fish Pokémon
+0.9
+10
+
+Lightning
+X2
+None
+   
+1
+Choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon.
+Illus. Keiji Kinebuchi
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+93
+102
+Common
+Base Set 2
+2
+False
+Tackle
+20
+
+11
+Colorless
+None
+None
+None
+Flail
+10x
+Does 10 damage times the number of damage counters on Magikarp.
+12
+Water
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+25
+40
+10
+10
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Gust of Wind.jpg
+openFileDialog1

@@ -1,0 +1,56 @@
+Drowzee
+Psychic
+50
+Basic
+096
+Hypnosis Pokémon
+1
+32.4
+Staryu
+Psychic
+X2
+None
+   
+1
+Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating bad dreams.
+Illus. Ken Sugimori
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+95
+132
+Common
+Gym Challenge
+2
+False
+Energy Support
+ 
+Search your deck for a Psychic Energy card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward.
+12
+Psychic
+None
+None
+None
+Mind Shock
+ 20
+Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)
+10
+Psychic
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+25
+30
+25
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Drowzee.png
+openFileDialog1

@@ -1,0 +1,56 @@
+Abra
+Psychic
+40
+Basic
+063
+Psi Pokémon
+0.9
+19.5
+Staryu
+Psychic
+X2
+None
+   
+0
+Using its ability to read minds, it will identify impending danger and teleport to safety.
+Illus. Atsuko Nishida
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+93
+132
+Common
+Gym Challenge
+2
+False
+Pound
+ 10
+ 
+12
+Colorless
+None
+None
+None
+Synchronize
+ 40
+This attack can't be used unless Sabrina's Abra and the Defending Pokémon have the same number of Energy cards attached to them.
+10
+Psychic
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+25
+25
+10
+40
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Abra.png
+openFileDialog1

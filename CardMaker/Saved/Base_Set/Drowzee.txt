@@ -1,0 +1,56 @@
+Drowzee
+Psychic
+50
+Basic
+096
+Hypnosis Pokémon
+1
+32.4
+
+Psychic
+X2
+None
+   
+1
+Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating bad dreams.
+Illus. Ken Sugimori
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+49
+102
+Common
+Base Set 2
+2
+False
+Pound
+10
+ 
+11
+Colorless
+None
+None
+None
+Confuse Ray
+10
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+10
+Psychic
+Psychic
+None
+None
+
+
+
+11
+None
+None
+None
+None
+30
+40
+20
+5
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Drowzee.png
+openFileDialog1

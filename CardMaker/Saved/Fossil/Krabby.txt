@@ -1,0 +1,56 @@
+Krabby
+Water
+50
+Basic
+098
+River Crab Pokémon
+0.4
+6.5
+
+Lightning
+X2
+None
+   
+2
+Its pincers are not only powerful weapons, they are used for balance when walking sideways.
+Illus. kirisAki
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+51
+62
+Common
+Fossil
+2
+False
+Call for Family
+ 
+Search your deck for a Basic Pokémon named Krabby and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)
+11
+Water
+None
+None
+None
+Irongrip
+20
+ 
+11
+Water
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+15
+40
+60
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Krabby.png
+openFileDialog1

@@ -1,0 +1,56 @@
+Ivysaur
+Grass
+60
+Stage 1
+002
+Seed Pokémon
+1
+13
+Bulbasaur
+Fire
+X2
+None
+   
+1
+When the bulb on its back grows large, the Pokémon seems to lose the ability to stand on its hind legs.
+Illus. Ken Sugimori
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+30
+102
+Uncommon
+Base Set 2
+2
+False
+Vine Whip
+30
+ 
+11
+Grass
+Colorless
+Colorless
+None
+Poisonpowder
+20
+The Defending Pokémon is now Poisoned.
+12
+Grass
+Grass
+Grass
+None
+
+
+
+11
+None
+None
+None
+None
+35
+40
+20
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Ivysaur.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Bulbasaur_small.png

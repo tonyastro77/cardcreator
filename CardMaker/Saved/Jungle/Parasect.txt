@@ -1,0 +1,56 @@
+Parasect
+Grass
+60
+Stage 1
+047
+Mushroom Pokémon
+1
+29.5
+Paras
+Fire
+X2
+None
+   
+1
+A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.
+Illus. Satoshi Shirai
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+41
+64
+Uncommon
+Jungle
+2
+False
+Spore
+ 
+The Defending Pokémon is now Asleep.
+11
+Grass
+Grass
+None
+None
+Slash
+30
+ 
+11
+Colorless
+Colorless
+Colorless
+None
+
+
+
+11
+None
+None
+None
+None
+45
+40
+50
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Jungle\Img\Parasect.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Jungle\Img\Paras_Small.png

@@ -1,0 +1,56 @@
+Lapras
+Water
+80
+Basic
+131
+Transport Pokémon
+2.5
+220
+
+Lightning
+X2
+None
+   
+2
+A Pokémon that has been overhunted almost to extinction. It can ferry people across water.
+I. Masakazu Fukuda
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+10
+62
+Rare
+Fossil
+2
+False
+Water Gun
+10+
+Does 10 damage plus 10 more damage for each Water Energy attached to Lapras but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.
+11
+Water
+None
+None
+None
+Confuse Ray
+10
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+10
+Water
+Water
+None
+None
+
+
+
+11
+None
+None
+None
+None
+5
+45
+50
+5
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Fossil\Img\Lapras.png
+openFileDialog1

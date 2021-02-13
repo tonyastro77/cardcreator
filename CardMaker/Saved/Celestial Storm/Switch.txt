@@ -1,0 +1,56 @@
+Switch
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Switch your Active Pokémon with 1 of your Benched Pokémon.
+I. Hiromichi Sugiyama
+©2018 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+147
+168
+Uncommon
+Celestial Storm
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Item
+D:\C#.Net\CardMaker\CardMaker\Saved\Celestial Storm\Img\Switch.png
+openFileDialog1

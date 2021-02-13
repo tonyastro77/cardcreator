@@ -1,0 +1,56 @@
+Clefairy
+Fairy
+60
+Basic
+035
+Fairy Pokémon
+0.6
+7.5
+
+Steel
+X2
+Dark
+-20
+1
+It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.
+
+©2014 Pokémon
+69
+111
+Common
+Furious Fists
+2
+False
+Moonlight
+
+Heal 30 damage from this Pokémon.
+11
+Colorless
+None
+None
+None
+Pound
+20
+
+11
+Fairy
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+30
+10
+40
+15
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Clefairy.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Eevee_small.png

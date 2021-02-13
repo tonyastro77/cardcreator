@@ -1,0 +1,56 @@
+Nest Ball
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.
+Illus. Toyste Beach
+©2017 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+123
+149
+Uncommon
+Sun and Moon
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Item
+D:\C#.Net\CardMaker\CardMaker\Saved\Sun and Moon\Img\Nest Ball.png
+openFileDialog1

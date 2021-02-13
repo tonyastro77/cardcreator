@@ -1,0 +1,56 @@
+Tentacool
+Water
+50
+Basic
+072
+Jellyfish Pokémon
+0.9
+45.5
+Staryu
+Lightning
+X2
+None
+   
+1
+Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.
+Illus. Ken Sugimori
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+57
+132
+Uncommon
+Gym Heroes
+1
+False
+Crystal Beam
+20
+Flip a coin. If heads, your opponent can't attach Energy cards to the Defending Pokémon during his or her next turn.
+12
+Water
+Colorless
+None
+None
+ 
+ 
+ 
+10
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+30
+30
+5
+5
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Heroes\Img\Tentacool.jpg
+openFileDialog1

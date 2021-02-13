@@ -1,0 +1,56 @@
+Venusaur
+Grass
+100
+Stage 2
+003
+Seed Pokémon
+2
+100
+Ivysaur
+Fire
+X2
+None
+   
+2
+This plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.
+I. Masakazu Fukuda
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+15
+102
+Rare
+Base Set 2
+2
+True
+Energy Trans
+ 
+As often as you like during your turn (before your attack), you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed.
+11
+None
+None
+None
+None
+Solarbeam
+60
+ 
+11
+Grass
+Grass
+Grass
+Grass
+
+
+
+11
+None
+None
+None
+None
+0
+60
+60
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Venusaur.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Ivysaur_small.png

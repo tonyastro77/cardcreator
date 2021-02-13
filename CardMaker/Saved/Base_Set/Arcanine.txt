@@ -1,0 +1,56 @@
+Arcanine
+Fire
+100
+Stage 1
+059
+Legendary Pokémon
+1.9
+155
+Growlithe
+Water
+X2
+None
+   
+3
+A Pokémon that has been long admired for its beauty. It runs gracefully, as if on wings.
+Illus. Anime
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+23
+102
+Uncommon
+Base Set 2
+2
+False
+Flamethrower
+50
+Discard 1 Fire Energy card attached to Arcanine in order to use this attack.
+12
+Fire
+Fire
+Colorless
+None
+Take Down
+80
+Arcanine does 30 damage to itself.
+12
+Fire
+Fire
+Colorless
+Colorless
+
+
+
+11
+None
+None
+None
+None
+20
+35
+40
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Arcanine.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Growlithe_small.jpg

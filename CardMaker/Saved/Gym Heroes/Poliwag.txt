@@ -1,0 +1,56 @@
+Poliwag
+Water
+50
+Basic
+060
+Tadpole Pokémon
+0.6
+12.4
+Staryu
+Grass
+X2
+None
+   
+1
+Its newly grown legs prevent it from running. It appears to prefer swimming over trying to stand.
+Illus. Ken Sugimori
+©1995, 96, 98 Nintendo, Creatures, GAMEFREAK. © 1999-2000 Wizards.
+87
+132
+Common
+Gym Heroes
+2
+False
+Hypnotic Stare
+ 
+ Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep.
+12
+Water
+None
+None
+None
+Tail Rap
+20x
+Flip 2 coins. This attack does 20 damage times the number of heads.
+10
+Water
+Colorless
+None
+None
+
+
+
+11
+None
+None
+None
+None
+5
+25
+35
+20
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Heroes\Img\Poliwag.jpg
+openFileDialog1

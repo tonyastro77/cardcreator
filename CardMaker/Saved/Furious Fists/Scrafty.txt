@@ -1,0 +1,56 @@
+Scrafty
+Dark
+90
+Stage 1
+560
+Hoodlum Pokémon
+1.1
+30
+Scraggy
+Fighting
+X2
+Psychic
+-20
+2
+It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.
+Illus. match
+©2014 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+67
+111
+Uncommon
+Furious Fists
+2
+False
+Low Kick
+30
+ 
+11
+Colorless
+Colorless
+None
+None
+Machine Headbutt
+50×
+Flip 3 coins. This attack does 50 damage times the number of heads. This Pokémon is now Confused.
+10
+Dark
+Dark
+None
+None
+
+
+
+11
+None
+None
+None
+None
+35
+40
+25
+25
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Scrafty.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Scraggy_Small.png

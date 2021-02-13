@@ -1,0 +1,56 @@
+Sabrina
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Draw 2 cards. During this turn, your Pokémon's attacks do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+Illus. Ken Sugimori
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+20
+132
+Rare
+Gym Challenge
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Supporter
+D:\C#.Net\CardMaker\CardMaker\Saved\Gym Challenge\Img\Sabrina.jpg
+openFileDialog1

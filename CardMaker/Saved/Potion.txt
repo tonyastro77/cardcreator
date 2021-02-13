@@ -1,0 +1,56 @@
+Potion
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Heal 30 damage from 1 of your Pokémon.
+Illus. 5ban Graphics
+©2013 Pokémon
+37
+39
+Common
+Kalos Starter Set
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Item
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Potion.png
+openFileDialog1

@@ -1,0 +1,56 @@
+Mewtwo
+Psychic
+60
+Basic
+150
+Genetic Pokémon
+2
+122
+
+Psychic
+X2
+None
+   
+3
+A scientist created this Pokémon after years of horrific gene-splicing and DNA engineering experiments.
+Illus. Ken Sugimori
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+10
+102
+Rare
+Base Set 2
+2
+False
+Psychic
+10+
+Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.
+11
+Psychic
+Colorless
+None
+None
+Barrier
+ 
+Discard 1 Psychic Energy card attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo.
+10
+Psychic
+Psychic
+None
+None
+
+
+
+11
+None
+None
+None
+None
+5
+45
+20
+40
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Mewtwo.png
+openFileDialog1

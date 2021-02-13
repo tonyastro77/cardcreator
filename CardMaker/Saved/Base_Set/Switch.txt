@@ -1,0 +1,56 @@
+Switch
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Switch 1 of your Benched Pokémon with your Active Pokémon.
+Illus. Keiji Kinebuchi
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+95
+102
+Common
+Base Set 2
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Item
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Switch.jpg
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Staryu_small.jpg

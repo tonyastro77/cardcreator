@@ -1,0 +1,56 @@
+Potion
+Fire
+
+Basic
+
+
+
+
+
+None
+   
+None
+   
+0
+Remove up to 2 damage counters from 1 of your Pokémon.
+Illus. 5ban Graphics
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+94
+102
+Common
+Base Set 2
+1
+False
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+0
+0
+0
+0
+0
+0
+Trainer: Item
+D:\C#.Net\CardMaker\CardMaker\Saved\Furious Fists\Img\Potion.png
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Staryu_small.jpg

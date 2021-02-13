@@ -1,0 +1,56 @@
+Abra
+Psychic
+30
+Basic
+063
+Psi Pokémon
+0.9
+19.5
+
+Psychic
+X2
+None
+   
+0
+Using its ability to read minds, it will identify impending danger and teleport to safety.
+Illus. Mitsuhiro Arita
+©1999 Pokémon/ Nintendo/ Creatures/ GAME FREAK.
+43
+102
+Common
+Base Set 2
+1
+False
+Psyshock
+10
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+11
+Psychic
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+50
+5
+0
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Abra.png
+openFileDialog1

@@ -1,0 +1,56 @@
+Vulpix
+Fire
+50
+Basic
+037
+Fox Pokémon
+0.6
+9.9
+
+Water
+X2
+None
+   
+1
+At the time of birth, it has just one tail. Its tail splits from the tip as it grows older.
+Illus. Anime
+©1998 Nintendo, Creatures, GAMEFREAK. ©Wizards
+68
+102
+Common
+Base Set 2
+1
+False
+Confuse Ray
+10
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+12
+Fire
+Fire
+None
+None
+
+
+
+11
+None
+None
+None
+None
+
+
+
+11
+None
+None
+None
+None
+60
+15
+15
+0
+0
+0
+Pokémon
+D:\C#.Net\CardMaker\CardMaker\Saved\Base_Set\Img\Vulpix.png
+openFileDialog1
